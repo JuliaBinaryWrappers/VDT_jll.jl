@@ -1,0 +1,60 @@
+[[VDT]]
+arch = "aarch64"
+git-tree-sha1 = "6b0b2b5826ee29c0ece8bace83d92fb08196b3cb"
+os = "macos"
+
+    [[VDT.download]]
+    sha256 = "d71911a1e5854ea217b5c10e04c63a5f1fead7f06e91073e17eb22e3b1efb784"
+    url = "https://github.com/JuliaBinaryWrappers/VDT_jll.jl/releases/download/VDT-v0.4.4+0/VDT.v0.4.4.aarch64-apple-darwin.tar.gz"
+[[VDT]]
+arch = "i686"
+git-tree-sha1 = "74652b710f24f93a5dc6b30c83102f217fde0d58"
+libc = "glibc"
+os = "linux"
+
+    [[VDT.download]]
+    sha256 = "55e18bbc5dc1322746a86ff78c92d417621e0d00c172004ddbacba949c376414"
+    url = "https://github.com/JuliaBinaryWrappers/VDT_jll.jl/releases/download/VDT-v0.4.4+0/VDT.v0.4.4.i686-linux-gnu.tar.gz"
+[[VDT]]
+arch = "i686"
+git-tree-sha1 = "6f618e57ac29b54f6434196619a0d0516f620401"
+libc = "musl"
+os = "linux"
+
+    [[VDT.download]]
+    sha256 = "799ffa40ae2d1860fc1c9c60ba2db8382faaaf749ff2c09f80f0a0f4640c1573"
+    url = "https://github.com/JuliaBinaryWrappers/VDT_jll.jl/releases/download/VDT-v0.4.4+0/VDT.v0.4.4.i686-linux-musl.tar.gz"
+[[VDT]]
+arch = "x86_64"
+git-tree-sha1 = "03e26578c3d5e1ff3260b0d96021be237331734c"
+os = "macos"
+
+    [[VDT.download]]
+    sha256 = "ea980dee1575aa4e8fb7541a5bb56f656f99c482e2ae709360bee2bbd2ec3b96"
+    url = "https://github.com/JuliaBinaryWrappers/VDT_jll.jl/releases/download/VDT-v0.4.4+0/VDT.v0.4.4.x86_64-apple-darwin.tar.gz"
+[[VDT]]
+arch = "x86_64"
+git-tree-sha1 = "7e01dd07705b8a277140d0294dcc0ec5ee09a125"
+libc = "glibc"
+os = "linux"
+
+    [[VDT.download]]
+    sha256 = "5859234dc2e032a690a62ecae13341a2bdddb11fbb2895a117490776895d4583"
+    url = "https://github.com/JuliaBinaryWrappers/VDT_jll.jl/releases/download/VDT-v0.4.4+0/VDT.v0.4.4.x86_64-linux-gnu.tar.gz"
+[[VDT]]
+arch = "x86_64"
+git-tree-sha1 = "b711ffb92f83fbf2be73dbfdda69c6bb6c0426f8"
+libc = "musl"
+os = "linux"
+
+    [[VDT.download]]
+    sha256 = "9b44d17f195b115c78c57803264159f9444a75d9d4de8f471d1492f5cca0d5a8"
+    url = "https://github.com/JuliaBinaryWrappers/VDT_jll.jl/releases/download/VDT-v0.4.4+0/VDT.v0.4.4.x86_64-linux-musl.tar.gz"
+[[VDT]]
+arch = "x86_64"
+git-tree-sha1 = "a7592a21d1d2880db110c2ea246f799caa6f2212"
+os = "freebsd"
+
+    [[VDT.download]]
+    sha256 = "96ea0ca98df6ac1ae05d0600f078c5137a6437701beff685121f3255239f1899"
+    url = "https://github.com/JuliaBinaryWrappers/VDT_jll.jl/releases/download/VDT-v0.4.4+0/VDT.v0.4.4.x86_64-unknown-freebsd.tar.gz"
